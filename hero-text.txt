@@ -1,0 +1,21 @@
+
+
+			<div class="bg-white">
+		<div class="flex">
+			<div class="w-3/5">
+				<p class="ss-pro text-2xl text-gray-800">"And He subjected all things under His feet and gave Him to be Head over all things to the church, which is His Body, the fullness of the One who fills all in all.”</p>
+				<p class="text-gray-600">Ephesians 1:22-23</p>
+			</div>
+		</div>
+		<div class="flex justify-end">
+			<div class="w-2/5 text-gray-700">
+				<h1 class="ss-pro text-3xl text-gray-800">Welcome</h1>
+				<p>The church in Austin isn't our name - it's our description.</p>
+			<p>As such, it's an inclusive title, not an exclusive one. We gather together simply as believers of the Lord in this city, and we receive as our brothers and sisters all who believe in Jesus Christ. Likewise, we warmly welcome guests and visitors who are not Christians.</p>
+			<p><a href="">About us</a>
+				<a href="">Our beliefs</a>
+				<a href="">Our history</a></p>
+			</div>
+			
+		</div>
+	</div>
