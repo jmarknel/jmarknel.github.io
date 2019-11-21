@@ -1,0 +1,26 @@
+{
+  "name": "churchinaustinproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "tailwindcss": "^1.1.3"
+  },
+  "devDependencies": {
+    "gulp-postcss": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarknel/jmarknel.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarknel/jmarknel.github.io/issues"
+  },
+  "homepage": "https://github.com/jmarknel/jmarknel.github.io#readme"
+}
